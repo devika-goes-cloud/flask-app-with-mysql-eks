@@ -46,8 +46,10 @@ kubectl get svc two-tier-app-service
 
 
 ## Pod Deployment Verification
-
+<img width="1517" height="566" alt="get all " src="https://github.com/user-attachments/assets/2cd9f712-6df5-41c4-b0c3-c2d7dfb52db9" />
 
 
 ## EKS Cluster deletion
+<img width="1530" height="517" alt="cluster_del_flask" src="https://github.com/user-attachments/assets/096ec796-826d-43da-a620-a7915273a0f4" />
+
 
