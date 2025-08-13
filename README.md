@@ -24,6 +24,7 @@ kubectl apply -f two-tier-app-deployment.yml two-tier-app-svc.yml
 ## 3️⃣ Verify Deployment
 
 kubectl get pods
+<br>
 kubectl get svc
 
 
@@ -31,4 +32,22 @@ kubectl get svc
 
 kubectl get svc two-tier-app-service
 
+
+- Copy the External IP
+
+- Paste it in your browser to access the app. ✅
+
+<img width="1793" height="961" alt="Flask-mysql-project" src="https://github.com/user-attachments/assets/ca099315-794a-46e2-b6ca-8905bbed0b5b" />
+
+
+
+## 📸 EKS Cluster Creation
+<img width="1497" height="966" alt="cluster_create_flask" src="https://github.com/user-attachments/assets/00255af3-3bdf-43e9-b439-0745a61cdc08" />
+
+
+## Pod Deployment Verification
+
+
+
+## EKS Cluster deletion
 
